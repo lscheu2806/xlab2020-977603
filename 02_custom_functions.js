@@ -33,7 +33,7 @@ const generateID = function(len) {
 
 /* Hooks
 *
-*
+*-
 */
 
 // Error feedback if participants exceeds the time for responding
